@@ -1,0 +1,22 @@
+html{
+  margin: 0;
+  background-color: #FFFAFA;
+
+}
+
+body{
+  color: grey;
+  font-family: sans-serif;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+h1{
+  padding: 20px;
+}
+
+.container{
+}
