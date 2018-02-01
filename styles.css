@@ -18,5 +18,7 @@ h1{
   padding: 20px;
 }
 
-.container{
+video{
+  height: 100px;
+  width: 100px;
 }
